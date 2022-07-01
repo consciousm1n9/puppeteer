@@ -1,8 +1,0 @@
-Requirements
-1. Node installed.
-2. Installed next dependencies once time and the first execution only:
-    - npm i puppeteer
-    - npm i --save image-downloader
-
-To execute a script just execute next command:
-    'node scripts/search.js'
