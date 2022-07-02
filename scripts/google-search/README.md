@@ -1,5 +1,5 @@
 # puppeteer -> google-search script
-Download all images from search in Google images.
+Download all images from a search in Google images.
 
 Requirements
 
@@ -11,7 +11,7 @@ Requirements
 Change value of variable 'search constant' with your search criteria.
 
 To run a script just execute the command:
-    'node scripts/google=search/search.js'
+    'node scripts/google-search/search.js'
     
 
 
