@@ -8,7 +8,7 @@ Requirements
     - npm install
 
 !!!IMPORTANT!!!
-Change value of variable 'search constant' to your search criteria.
+Change value of variable 'search constant' with your search criteria.
 
 To run a script just execute the command:
     'node scripts/google=search/search.js'
