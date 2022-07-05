@@ -6,4 +6,4 @@ Requirements
     - npm install
 
 To run a script just execute next command:
-    'node scripts/google=search/search.js'
+    'node scripts/google-search/search.js'
