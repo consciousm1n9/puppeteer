@@ -13,7 +13,6 @@ Change value of variable 'search constant' with your search criteria.
 To run a script just execute the command:
     'node scripts/google-search/search.js'
     
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/67773113/177862233-1220cddf-1b66-4165-af37-005a567ceeda.gif)
 
-
-https://user-images.githubusercontent.com/67773113/176990771-cbeafcf3-76b9-4218-b2f4-0a6755ff6e2d.mp4
 
