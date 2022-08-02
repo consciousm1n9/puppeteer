@@ -6,9 +6,8 @@ const fs = require("fs");
 const search = 'corne keyboard';
 
 const url = 'https://www.google.com.mx/imghp?hl=en&ogbl';
-const rootPath = 'search';
-
-let folder = `${__dirname}/${rootPath}/${new Date().getTime()}#${search.replace(" ", "-")}`;
+const rootPath = `${__dirname}/result`;
+let folder = `${rootPath}/${new Date().getTime()}#${search.replace(" ", "-")}`;
 if(!fs.existsSync(rootPath))
   fs.mkdirSync(rootPath);
 if (!fs.existsSync(folder)){
